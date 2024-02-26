@@ -260,19 +260,4 @@ header .menu:hover a {
 
 #social .imgbox {
   width: 130px;
-}
-
-#contact {
-  background-image: url("assets/20.png");
-}
-#contact h1 {
-  font-size: 40px;
-  font-weight: 700;
-  color: white;
-  margin-top: 30px;
-}
-#contact h3 {
-  font-size: 18px;
-  color: #697075;
-  margin: 15px 0;
 }/*# sourceMappingURL=style.css.map */
