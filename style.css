@@ -264,20 +264,19 @@ header .menu:hover a {
 
 #contact {
   background-image: url(assets/20.png);
-  background-color: #3d3737;
+  background-color: #212529;
   background-repeat: no-repeat;
   background-position: center;
-  background-size: cover;
-  height: 660px;
+  height: 640px;
 }
 #contact h1 {
-  font-size: 40px;
+  font-size: 45px;
   font-weight: 700;
   color: white;
-  margin-top: 30px;
+  margin-top: 60px;
 }
 #contact h3 {
   font-size: 18px;
   color: #697075;
-  margin: 15px 0;
+  margin: 20px 0;
 }/*# sourceMappingURL=style.css.map */
