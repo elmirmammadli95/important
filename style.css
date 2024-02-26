@@ -2,6 +2,16 @@ body {
   font-family: "Dosis", sans-serif;
   font-weight: 500;
 }
+body section {
+  padding: 50px 0;
+}
+
+.imgbox {
+  overflow: hidden;
+}
+.imgbox img {
+  width: 100%;
+}
 
 header {
   background-color: #212529;
