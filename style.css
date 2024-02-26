@@ -279,4 +279,13 @@ header .menu:hover a {
   font-size: 18px;
   color: #697075;
   margin: 20px 0;
+}
+#contact .box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+#contact .box input {
+  margin-bottom: 20px;
+  height: 65px;
 }/*# sourceMappingURL=style.css.map */
