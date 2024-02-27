@@ -115,12 +115,12 @@ header .menu:hover a {
 #portfolio {
   background-color: #f8f9fa;
 }
-#portfolio .wdth h1 {
-  font-size: 35px;
+#portfolio h1 {
+  font-size: 40px;
   font-weight: 700;
   color: #212529;
 }
-#portfolio .wdth h3 {
+#portfolio h3 {
   font-size: 18px;
   color: #8b9298;
   margin: 25px 0 70px;
@@ -134,13 +134,13 @@ header .menu:hover a {
 #portfolio .box .imgbox {
   width: 415px;
 }
-#portfolio .box .textbox h2 {
+#portfolio .box h2 {
   font-size: 27px;
   font-weight: 700;
   color: #212529;
   margin-top: 30px;
 }
-#portfolio .box .textbox h4 {
+#portfolio .box h4 {
   font-size: 19px;
   color: #8c9299;
   margin: 10px 0 30px;
