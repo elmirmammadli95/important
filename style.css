@@ -192,16 +192,18 @@ header .menu:hover a {
 #about .box .march, #about .box .july {
   margin-left: 780px;
 }
-#about .textbox h5 {
+#about .wdth {
   width: 156px;
-  font-size: 22px;
-  font-weight: 700;
-  color: #fffefd;
-  padding: 35px 30px;
   border: 7px solid #e9ecef;
   border-radius: 50%;
   background-color: #ffc800;
   margin-left: 560px;
+}
+#about .wdth h5 {
+  font-size: 22px;
+  font-weight: 700;
+  color: #fffefd;
+  padding: 35px 30px;
   line-height: 1.1;
 }
 
