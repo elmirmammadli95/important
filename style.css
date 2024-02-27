@@ -278,7 +278,7 @@ header .menu:hover a {
 #contact h3 {
   font-size: 18px;
   color: #697075;
-  margin: 20px 0;
+  margin: 20px 0 70px;
 }
 #contact .box {
   display: flex;
@@ -286,6 +286,14 @@ header .menu:hover a {
   justify-content: center;
 }
 #contact .box input {
-  margin-bottom: 20px;
-  height: 65px;
+  margin-bottom: 25px;
+  height: 69px;
+  font-size: 18px;
+  font-weight: 700;
+}
+#contact .box textarea {
+  border: 1px solid #c39c0b;
+  border-radius: 6px;
+  font-size: 18px;
+  font-weight: 700;
 }/*# sourceMappingURL=style.css.map */
