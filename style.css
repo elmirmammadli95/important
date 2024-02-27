@@ -214,11 +214,12 @@ header .menu:hover a {
   font-size: 45px;
   font-weight: 700;
   color: #212529;
+  margin: 20px 0 20px;
 }
 #team h3 {
   font-size: 18px;
   color: #70757d;
-  margin: 20px 0 60px;
+  margin-bottom: 60px;
 }
 #team .box {
   text-align: center;
