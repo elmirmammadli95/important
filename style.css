@@ -44,11 +44,12 @@ header .menu nav:hover a {
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
-  height: 650px;
+  height: 645px;
 }
 #welcome .textbox {
   letter-spacing: 3px;
   word-spacing: 2px;
+  margin-top: 60px;
 }
 #welcome .textbox h3 {
   font-size: 40px;
