@@ -257,6 +257,9 @@ header .menu nav:hover a {
   padding: 12px 14px;
   margin: 20px 10px 50px;
 }
+#team .box ul:hover li {
+  cursor: pointer;
+}
 #team .textbox {
   width: 780px;
 }
