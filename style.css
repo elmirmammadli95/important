@@ -324,24 +324,32 @@ header .menu nav:hover a {
   color: #fffcf8;
 }
 
-footer h6 {
-  font-size: 17px;
-  padding: 13px 0;
-  color: #000000;
+footer .box {
+  display: flex;
+  padding: 15px 0;
+}
+footer .box h6 {
+  font-size: 18px;
+  color: #595966;
   word-spacing: 1px;
 }
-footer ul {
+footer .box ul {
   display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
-  padding: 25px 0;
 }
-footer ul li {
+footer .box ul li {
   font-size: 18px;
-  padding: 13px;
+  padding: 12px 15px;
   margin: 0 10px;
   color: #ffffff;
   background-color: #212529;
   border-radius: 50%;
+}
+footer .box ul:hover li {
+  cursor: pointer;
+}
+footer .box h5 {
+  margin-right: 25px;
+}
+footer .box:hover {
+  cursor: pointer;
 }/*# sourceMappingURL=style.css.map */
