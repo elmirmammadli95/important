@@ -322,4 +322,10 @@ header .menu nav:hover a {
   font-size: 18px;
   font-weight: 700;
   color: #fffcf8;
+}
+
+footer h6 {
+  font-size: 17px;
+  padding: 13px 0;
+  color: #000000;
 }/*# sourceMappingURL=style.css.map */
