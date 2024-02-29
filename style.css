@@ -329,4 +329,19 @@ footer h6 {
   padding: 13px 0;
   color: #000000;
   word-spacing: 1px;
+}
+footer ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 25px 0;
+}
+footer ul li {
+  font-size: 18px;
+  padding: 13px;
+  margin: 0 10px;
+  color: #ffffff;
+  background-color: #212529;
+  border-radius: 50%;
 }/*# sourceMappingURL=style.css.map */
