@@ -15,10 +15,23 @@ header
                 margin-left: 35px
                 letter-spacing: 1px
 
-            &:hover
-                a
-                    font-size: 18px
-                    margin-left: 35px
-                    letter-spacing: 1px
-                    color: #e3ad11
-                    cursor: pointer
+        &:hover
+            a
+                color: #e3ad11
+                cursor: pointer
+            
+    @media screen and ( max-width: 992px  )
+        nav
+            visibility: hidden
+        .btn
+            display: flex
+            flex-direction: row
+            border-radius: 5px
+            border: 1px solid #373a3e
+            padding: 20px 30px
+            h4
+                font-size: 20px
+                color: #8a979c
+            i
+                font-size: 20px
+                color: #939b9e
