@@ -298,18 +298,18 @@ header .menu nav:hover a {
   position: relative;
 }
 #contact .box input {
-  margin-bottom: 25px;
-  height: 67px;
   font-size: 18px;
   font-weight: 700;
+  margin-bottom: 25px;
+  height: 67px;
   z-index: 0;
 }
 #contact .box textarea {
-  border: 1px solid #c39c0b;
-  border-radius: 6px;
   font-size: 18px;
   font-weight: 700;
   padding: 25px 15px;
+  border: 1px solid #c39c0b;
+  border-radius: 6px;
   z-index: 0;
 }
 #contact .btn {
