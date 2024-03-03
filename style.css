@@ -24,6 +24,10 @@ header .menu .imgbox {
   width: 150px;
   margin-right: 400px;
 }
+header .menu nav {
+  display: flex;
+  justify-content: space-around;
+}
 header .menu nav a {
   font-size: 18px;
   margin-left: 35px;
