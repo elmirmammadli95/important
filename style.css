@@ -22,11 +22,7 @@ header .menu {
 }
 header .menu .imgbox {
   width: 150px;
-  margin-right: 400px;
-}
-header .menu nav {
-  display: flex;
-  justify-content: space-around;
+  margin-left: 100px;
 }
 header .menu nav a {
   font-size: 18px;
@@ -38,22 +34,10 @@ header .menu:hover a {
   cursor: pointer;
 }
 @media screen and (max-width: 992px) {
-  header .menu {
-    background-color: #212529;
-    padding: 23px 0;
-    width: 100%;
-    position: fixed;
-    z-index: 1;
-    left: 0;
-  }
-  header .menu .imgbox {
-    width: 150px;
-    margin-right: 260px;
-  }
-  header .menu nav {
+  header nav {
     visibility: hidden;
   }
-  header .menu .box {
+  header .box {
     display: flex;
     text-align: center;
     width: 80px;
@@ -62,12 +46,12 @@ header .menu:hover a {
     color: #9b9d9e;
     padding: 12px 5px;
   }
-  header .menu .box h4 {
+  header .box h4 {
     font-size: 13px;
     font-weight: 700;
     margin-left: 9px;
   }
-  header .menu .box .icon {
+  header .box .icon {
     font-size: 12px;
     margin-left: 9px;
   }
