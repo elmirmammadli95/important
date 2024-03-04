@@ -14,29 +14,24 @@ body .imgbox img {
 
 header .menu {
   background-color: #212529;
-  padding: 23px 0;
   width: 100%;
+  padding: 25px 100px;
   position: fixed;
   z-index: 1;
   left: 0;
 }
 header .menu .imgbox {
   width: 150px;
-  margin-left: 100px;
 }
 header .menu nav a {
   font-size: 18px;
   margin-left: 35px;
   letter-spacing: 1px;
 }
-header .menu:hover a {
-  color: #e3ad11;
-  cursor: pointer;
+header .menu .box {
+  display: none;
 }
 @media screen and (max-width: 992px) {
-  header nav {
-    visibility: hidden;
-  }
   header .box {
     display: flex;
     text-align: center;
@@ -54,5 +49,8 @@ header .menu:hover a {
   header .box .icon {
     font-size: 12px;
     margin-left: 9px;
+  }
+  header nav {
+    visibility: hidden;
   }
 }/*# sourceMappingURL=style.css.map */
