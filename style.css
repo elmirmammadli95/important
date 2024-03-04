@@ -15,31 +15,26 @@ body .imgbox img {
 header .menu {
   background-color: #212529;
   width: 100%;
-  padding: 25px 100px;
+  padding: 25px 30px;
   position: fixed;
   z-index: 1;
   left: 0;
 }
 header .menu .imgbox {
-  width: 150px;
+  width: 140px;
 }
 header .menu nav a {
   font-size: 18px;
   margin-left: 35px;
   letter-spacing: 1px;
 }
-header .menu .box {
-  display: none;
-}
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 991px) {
   header .box {
-    display: flex;
-    text-align: center;
     width: 80px;
     border: 1px solid #383b3f;
     border-radius: 6px;
     color: #9b9d9e;
-    padding: 12px 5px;
+    padding: 12px 10px;
   }
   header .box h4 {
     font-size: 13px;
