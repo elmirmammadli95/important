@@ -56,4 +56,116 @@ header .menu .box {
   header .menu nav {
     display: none;
   }
+}
+
+#welcome {
+  background-image: url(assets/2.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 645px;
+}
+#welcome .textbox {
+  letter-spacing: 3px;
+  word-spacing: 2px;
+  margin-top: 60px;
+}
+#welcome .textbox h3 {
+  font-size: 40px;
+  color: #ffffff;
+  margin-bottom: 30px;
+}
+#welcome .textbox h1 {
+  font-size: 80px;
+  font-weight: 700;
+  color: #ffffff;
+}
+#welcome .textbox .btn {
+  padding: 20px 45px;
+  border-radius: 5px;
+  background-color: #ffc800;
+  margin: 70px 0 0 0;
+}
+#welcome .textbox .btn h4 {
+  font-size: 18px;
+  font-weight: 700;
+  color: #fffcf8;
+}
+
+#services {
+  letter-spacing: 1px;
+}
+#services h1 {
+  font-size: 40px;
+  font-weight: 700;
+  color: #212529;
+  margin-top: 85px;
+}
+#services h3 {
+  font-size: 18px;
+  color: #6c757d;
+  margin: 23px 0 60px;
+}
+#services .box {
+  display: inline-block;
+}
+#services .box .minibox {
+  display: inline-block;
+  width: 150px;
+}
+#services .box .minibox .icon {
+  background-color: #ffc800;
+  border-radius: 50%;
+  padding: 30px 15px;
+  margin: 10px 15px;
+}
+#services .box .minibox .icon i {
+  font-size: 60px;
+  font-weight: 700;
+  color: white;
+}
+#services .box .textbox h2 {
+  font-size: 28px;
+  font-weight: 600;
+  color: #252529;
+  margin: 5px 0 20px;
+}
+#services .box .textbox p {
+  font-size: 18px;
+  color: #6c757d;
+  line-height: 1.5;
+}
+
+#portfolio {
+  background-color: #f8f9fa;
+}
+#portfolio h1 {
+  font-size: 40px;
+  font-weight: 700;
+  color: #212529;
+}
+#portfolio h3 {
+  font-size: 18px;
+  color: #8b9298;
+  margin: 25px 0 70px;
+}
+#portfolio .box {
+  display: inline-block;
+  background-color: white;
+  letter-spacing: 0.5px;
+  margin-bottom: 20px;
+}
+#portfolio .box .imgbox {
+  width: 415px;
+}
+#portfolio .box h2 {
+  font-size: 27px;
+  font-weight: 700;
+  color: #212529;
+  margin-top: 30px;
+}
+#portfolio .box h4 {
+  font-size: 19px;
+  color: #8c9299;
+  margin: 10px 0 30px;
 }/*# sourceMappingURL=style.css.map */
